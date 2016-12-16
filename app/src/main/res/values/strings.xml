@@ -1,3 +1,15 @@
 <resources>
+    <!-- moviedb config -->
+    <string name="moviedb_key">1b2f29d43bf2e4f3142530bc6929d341</string>
+
+    <!-- font config -->
+    <string name="fira_medium">fonts/FiraSans-Medium.ttf</string>
+    <string name="fira_regular">fonts/FiraSans-Regular.ttf</string>
+    <string name="fira_bold">fonts/FiraSans-Bold.ttf</string>
+
+    <!-- app config -->
     <string name="app_name">Wirosableng</string>
+    <string name="text_dummy_title">Lorem Ipsum</string>
+    <string name="text_film">Film</string>
+    <string name="text_aing">Aing</string>
 </resources>
