@@ -52,13 +52,12 @@
         </LinearLayout>
     </android.support.v7.widget.Toolbar>
 
-    <FrameLayout
+    <android.support.v7.widget.RecyclerView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_below="@+id/toolbar">
-
-
-    </FrameLayout>
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/toolbar" />
 
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/fab_popular"
